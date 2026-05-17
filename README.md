@@ -19,6 +19,7 @@ An AI-powered assistant designed to help JEE students with studying, problem-sol
 ```bash
 npm install
 npm run dev
+```
 
 ## 👩‍💻 Author
 
