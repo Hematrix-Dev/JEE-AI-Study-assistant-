@@ -20,5 +20,6 @@ An AI-powered assistant designed to help JEE students with studying, problem-sol
 npm install
 npm run dev
 
-Author
+## 👩‍💻 Author
+
 Hema Kumari
